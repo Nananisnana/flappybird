@@ -151,7 +151,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.ClientSize = new System.Drawing.Size(584, 752);
+            this.ClientSize = new System.Drawing.Size(999, 752);
             this.Controls.Add(this.scoreText);
             this.Controls.Add(this.zemin);
             this.Controls.Add(this.boru3ust);
